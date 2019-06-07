@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/mapTab"
+            android:enabled="true"
+            android:title="@string/contact"
+            android:icon="@drawable/ic_contact"/>
+    <item
+            android:id="@+id/programTab"
+            android:enabled="true"
+            android:title="@string/feedback"
+            android:icon="@drawable/ic_feedback"/>
+    <item
+            android:id="@+id/myNightTab"
+            android:enabled="true"
+            android:title="@string/drop"
+            android:icon="@drawable/ic_drop"
+    />
+    <item
+            android:id="@+id/infoTab"
+            android:enabled="true"
+            android:title="@string/info"
+            android:icon="@drawable/ic_info"
+    />
+
+</menu>
